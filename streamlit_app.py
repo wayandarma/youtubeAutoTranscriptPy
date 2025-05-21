@@ -23,8 +23,8 @@ from transcript_extractor import (
 
 # Constants
 VERSION = "1.0.0"
-AUTHOR = "Your Name"
-REPO_URL = "https://github.com/yourusername/youtube-transcript-extractor"
+AUTHOR = "Darma_Vibe Code"
+REPO_URL = "https://github.com/wayandarma/youtubeAutoTranscriptPy.git"
 
 # Common languages for selection
 LANGUAGES = {
